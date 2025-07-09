@@ -1,6 +1,6 @@
 # Automation-testing-project
-## 📄 Downloadable PDF Documents
+## 📄 PROJECTS
 
-- [📘 PDF 1 Title](https://github.com/Bishakha23/repo/blob/main/AUTOMATION%20TEST%20test%20execution%20report%20-%20Sheet1.pdf?raw=true)
+- [📘 P1: Automation Testing Project](https://github.com/Bishakha23/Automation-testing-project/main/AUTOMATION-TEST-test-execution-report.xlsx)
 - //[📗 PDF 2 Title]()
 - //[📙 PDF 3 Title]()
